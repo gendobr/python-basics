@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "fastapi"
+version = "0.1.0"
+description = ""
+authors = ["gen.dobr <gen.dobr@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.9.*"
+uvicorn = "^0.20.0"
+requests = "^2.28.2"
+
+
