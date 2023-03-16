@@ -5,6 +5,8 @@ class Duck:
     head: Head  # атрибут
     beak: Beak  # атрибут
 
+    name: str
+
     # конструктор
     def __init__(self) -> None:
         self.size = 10
